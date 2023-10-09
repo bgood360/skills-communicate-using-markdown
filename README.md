@@ -20,6 +20,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+## Step 0: My Header
+This is my header, above.
+## Step 1: Add headers
 
 ## Step 1: Add headers
 
@@ -32,11 +35,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 - Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
-
-### Example
-
-```md
-# This is an `<h1>` header, which is the largest
 
 ## This is an `<h2>` header
 
